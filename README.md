@@ -1,5 +1,5 @@
 # UX-UI-Design
-A repository showcasing my application prototypes
+A repository showcasing my application prototypes, UX reserch documentations, persona's, storyboarding, etc.,
 
     
     
